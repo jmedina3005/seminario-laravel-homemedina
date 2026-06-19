@@ -43,8 +43,9 @@ PHP/Apache: Abrir el navegador y acceder a http://localhost:8080.
 Se debe ver página de información de PHP (phpinfo()).
 ```
 
-phpMyAdmin: Acceder a http://localhost:8081. Usuario: root, Contraseña: root_password.
+phpMyAdmin: Acceder a http://localhost:8081. 
 ```
+Usuario: root, Contraseña: root_password.
 ```
 
 Base de datos: conectarse desde phpMyAdmin o desde su código PHP usando:
