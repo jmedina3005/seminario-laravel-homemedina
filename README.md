@@ -10,3 +10,5 @@ Bloque 5
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7979f259-7569-4488-87a5-18c6e9292112" />
 Bloque 6 y 7
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bac4100a-d949-4eff-bf71-3ab5c525c17c" />
+Bloque 8
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a899aa4-c5da-4296-892a-01e07e9716e5" />
