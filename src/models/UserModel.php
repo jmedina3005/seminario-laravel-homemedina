@@ -28,5 +28,5 @@ class UserModel {
         $stmt = $this->db->prepare("DELETE FROM users WHERE id = ?");
         return $stmt->execute([$id]);
     }
-}
-?>
+
+} // solo una llave al final
