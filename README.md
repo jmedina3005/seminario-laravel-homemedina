@@ -14,3 +14,5 @@ Bloque 8
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2a899aa4-c5da-4296-892a-01e07e9716e5" />
 Bloque 9 y 10
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d35f21cf-d180-4601-b43b-045e4e621f59" />
+Funcionando
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89701c23-0520-4323-8e55-9fdf13836a48" />
